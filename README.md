@@ -1,2 +1,1 @@
-# Main.lua
-By spock
+
